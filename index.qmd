@@ -17,7 +17,7 @@ csl: vancouver-brackets.csl
 
 <center>![](images/globalhealth.png){width="800"}</center>
 
-This e-book provides a summary of content addressed in the *Global Health, Antimicrobial Drugs, and Vaccines* section of the course. The material can be navigated using the collapsible menu on the left (type "s" to toggle the menu or click on the icon in the upper left hand corner). Inside the e-book you will find weblinks to data visualizations, websites, PDF documents, YouTube Videos, lectures slides, and further reading that can reinforce and broaden your understanding of the topics discussed in class.
+This e-book provides a summary of content addressed in the *Global Health, Antimicrobial Drugs, and Vaccines* section of the course. The material can be navigated using the collapsible menu on the left (type "s" to toggle the menu or click on the icon in the upper left hand corner). Inside the e-book you will find weblinks to data visualizations, websites, PDF documents, podcasts, YouTube Videos, lectures slides, and further reading that can reinforce and broaden your understanding of the topics discussed in class.
 
 This document can be used in combination with materials posted in the [UNIBO Virtual Learning Environment for the Course](https://virtuale.unibo.it/course/view.php?id=31100) (requires login credentials). PDF versions of this e-book and lecture slides (online versions accessible at end of each Module) can also be downloaded from the UNIBO site.
 
