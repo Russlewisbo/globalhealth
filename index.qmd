@@ -1,0 +1,26 @@
+---
+title: "Global Health, Antimicrobial Drugs and Vaccines"
+date: "12/30/2022"
+format: 
+  html:
+    code-fold: true
+    number-sections: false
+execute:
+  echo: true
+  warning: false
+  freeze: false
+bibliography: references.bib
+csl: vancouver-brackets.csl
+---
+
+## Welcome to the online course lecture notes {.unnumbered}
+
+<center>![](images/globalhealth.png){width="800"}</center>
+
+This e-book provides a summary of content addressed in the *Global Health, Antimicrobial Drugs, and Vaccines* section of the course. The material can be navigated using the collapsible menu on the left (type "s" to toggle the menu or click on the icon in the upper left hand corner). Inside the e-book you will find weblinks to data visualizations, websites, PDF documents, YouTube Videos, lectures slides, and further reading that can reinforce and broaden your understanding of the topics discussed in class.
+
+This document can be used in combination with materials posted in the [UNIBO Virtual Learning Environment for the Course](https://virtuale.unibo.it/course/view.php?id=31100) (requires login credentials). PDF versions of this e-book and lecture slides (online versions accessible at end of each Module) can also be downloaded from the UNIBO site.
+
+All source material in this handout is cited or credited to the original source. All other uncited images are public domain covered by Creative Commons Zero (CC0) license acquired though www.rawpixel.com.
+
+<center>![](images/creativecommons.png){width="150"}</center>
