@@ -1,6 +1,6 @@
 ---
 title: "Module 1: Antimicrobial resistance"
-date: "12/30/2022"
+date: "1/08/2023"
 format: 
   html:
     code-fold: true
@@ -124,7 +124,7 @@ The WHO also proposed a [Priority Pathogen List](https://www.who.int/medicines/p
 These pathogens may exhibit multi-drug resistance (MDR), extensive drug resistance (XDR) or pan-drug resistance (PDR) [@MagiorakosEtAl2012a]. Difficult-to-treat resistance (DTR) is a newer definition used to define isolate resistance patterns that require the use of less-effective or more toxic "reserve" antibiotics- e.g., *Acinetobacter baumanii* susceptible only to colistin and tobramycin [@KadriEtAl2018a].
 
 ::: callout-note
-## Defining resistance
+## What do these resistance definitions mean?
 
 The resistance definitions used by the WHO have specific meanings.
 
@@ -232,13 +232,11 @@ These data demonstrate a widening gap in the impact of antimicrobial resistance 
 
 The international focus on awareness, surveillance, infection prevention, stewardship and research and development (R&D) of new antibiotics may actually be widening the equity gap by pouring millions of dollars into R&D of new antibiotics and surveillance systems, while the intervention that could benefit LMICs the most, infection prevention, has received a relatively few resources.
 
-### What are the possible solutions to address resistance inequality? 
-<br>
+### What are the possible solutions to address resistance inequality?
 
 Recently the COVID-19 pandemic has refocused attention that in infectious diseases The Access to COVID-19 Tools (ACT)-Accelerator that we will discuss in Model 2 has shown that financial contributions from HICs to a LMIC-pool can improve equitable access to diagnostics, therapeutics and vaccines, but it is conceivable that the same model could be broadened to encompass tools that would support major social change for AMR.
 
 ### How can the effectiveness of antimicrobials be preserved? {.unnumbered}
-<br>
 
 Strategies for the prevention and containment of AMR often focus on:
 
@@ -411,7 +409,7 @@ The most controversial type of group treatment in food animals is long-term, low
 ::: {#fig-pigs}
 ![](images/pigs.png)
 
-Pigs in cages, Quanzhou, China. As the largest consumer of veterinary antimicrobials, China is critical for combating antimicrobial resistance (AMR). From Van Boekel et al [@VanBoeckelEtAl2017].
+Pigs in cages, Quanzhou, China. As the largest consumer of veterinary antimicrobials, China is critical for combating antimicrobial resistance (AMR). From Van Boekel et al. [@VanBoeckelEtAl2017].
 :::
 
 The reported benefits of using antibiotics for growth promotion is controversial and reports of the beneficial effects in terms of weight gains vary widely widely in the literature (1-10%). Concerns have been expressed that antimicrobial growth promoters are often used to compensate for poor hygiene/housing and healthy management [@McEwenCollignon2018].
@@ -431,7 +429,7 @@ Historically, governmental regulations have focused on toxicological dose-respon
 
 The WHO has advocated for the termination of using antimicrobials for growth promotion. A recent [report from the ECDC](https://www.ecdc.europa.eu/sites/default/files/documents/JIACRA-III-Antimicrobial-Consumption-and-Resistance-in-Bacteria-from-Humans-and-Animals.pdf) has suggested some progress in addressing this problem. Using surveillance data from 2017, the EU/EEA population mean antibiotic consumption in the 29 countries was 130 mg per kg of estimated biomass in humans and 108.3 mg per kg in food-producing animals [@fig-antibioticlivestock]. *This first time since the agencies began publishing the joint reports in 2011 that antibiotic use in humans has exceeded use in livestock.* Consumption of third- and fourth-generation cephalosporins, fluoroquinolones, and aminopenicillins was considerably higher in human medicine, while consumption of macrolides was similar, and consumption of tetracyclines and polymyxins---a last-resort class of antibiotics that includes colistin---was significantly higher in food-producing animals.
 
-::: callout-note 
+::: callout-note
 In 2022, new [EU legislation](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0006&from=EN) will prohibit all forms of routine antibiotic use in farming, including preventative group treatments and medicated feeding except in extraordinary circumstances.
 :::
 
@@ -461,7 +459,7 @@ Ceftiofur is frequently injected in small quantities to hatching eggs or chicks 
 Chicken farm in the United States of America.\*\* Image source: The Guardian
 :::
 
-Studies conducted by the Canadian Integrated Program for Antimicrobial Resistance Surveillance detected a high degree of temporal correlation in trends of resistance to ceftiofur and ceftriaxone (a drug of choice for the treatment of severe cases of salmonelloses in children and pregnant women) among *Salmonella* Heidelberg from clinical infections in humans, from poultry samples collected at retail stores, and in *E. coli* from poultry samples collected at retail stores [@fig-Canadaecoli][@Canada2009]. Voluntary termination of ceftiofur metaphylaxis in hatcheries in the province of Quebec was followed by a precipitous drop in the prevalence of resistance to ceftiofur; subsequent reintroduction of ceftiofur in a more limited way was followed by a return to higher levels of resistance (Fig 1.9)
+Studies conducted by the Canadian Integrated Program for Antimicrobial Resistance Surveillance detected a high degree of temporal correlation in trends of resistance to ceftiofur and ceftriaxone (a drug of choice for the treatment of severe cases of salmonelloses in children and pregnant women) among *Salmonella* Heidelberg from clinical infections in humans, from poultry samples collected at retail stores, and in *E. coli* from poultry samples collected at retail stores [@fig-Canadaecoli][@Canada2009]. Voluntary termination of ceftiofur metaphylaxis in hatcheries in the province of Quebec was followed by a precipitous drop in the prevalence of resistance to ceftiofur; subsequent reintroduction of ceftiofur in a more limited way was followed by a return to higher levels of resistance.
 
 ::: {#fig-Canadaecoli}
 ![](images/Canada_ecoli.png){width="500"}
@@ -473,7 +471,8 @@ In Japan, voluntary withdrawal of the off-label use of ceftiofur in hatcheries i
 
 These examples illustrate the danger of using antibiotics from the same class as critical therapies used to treat human infections for metaphylaxis or treatment in large numbers of animals. A similar pattern in poultry was also observed with mass medication of poultry flocks using fluoroquinolones antibiotics and selection of fluoroquinolone- resistant *Campylobacter jejuni* infections in humans [@EndtzEtAl1991a].
 
-#### Case study- colistin {.unnumbered}
+::: Callout-note
+## Case study: Colistin
 
 Colistin is a member of the polymixin class of antibiotics, which have been used in both human and veterinary medicine for over 50 years. Until relatively recently, polymixins were rarely prescribed beyond topical or inhalational therapy in rare cases because of dose-limiting neurotoxicity and nephrotoxicity of the drugs.
 
@@ -490,6 +489,7 @@ However, use of intravenous colistin has surged in the last decade with the incr
 -   Colistin illustrates important *One-Health Dimensions* of AMR that differ from third generation cephalosporins. Specifically, large volumes of colistin use in animals, rather than humans, have probably have driven colistin resistance now observed in humans [@FrostEtAl2019]. Using large quantities of colistin for group treatment or growth promotion in animals has probably lead to antimicrobial resistance problems in human health, even through colistin was considered in the past to be less important because other less toxic treatments were still available.
 
 -   In 2017, China banned the use of colistin as a food additive for animals. Colistin is currently not approved as a food additive in Europe or the United States, but is still be used in LMICs as a growth promoting agent.
+:::
 
 ### Antimicrobial resistance in animals in LMICs {.unnumbered}
 
@@ -517,20 +517,20 @@ In the 1990s avoparcin, a glycopeptide antimicrobial, was widely used in growth 
 
 ### Environmental concerns {.unnumbered}
 
-One health considers possible environmental drivers of AMR in additional to human and animal health [@McEwen2018-em]. Many resistance mechanisms such as beta-lactamases are millions of years old and pre-date antibiotics. Soil and other environmental sources are rich sources of highly-diverse populations of bacteria and genes.
+One health considers possible environmental drivers of AMR in additional to human and animal health [@mcewen2018]. Many resistance mechanisms such as beta-lactamases are millions of years old and pre-date antibiotics. Soil and other environmental sources are rich sources of highly-diverse populations of bacteria and genes.
 
 Antimicrobial resistance to a wide variety of drugs has been demonstrated in environmental bacteria isolated from the pre-antibiotic era, as well as from various sites (e.g., caves) free of other sources of exposure to modern antimicrobials. Yet their is abundant evidence that human has an impact on the *resistome*- the totality of or resistance genes in the total environment [@ONeilJim2015].
 
 Hundreds of thousands of tonnes of antimicrobials are produced annually and find their way into the environment. Waste from treatment plants and the pharmaceutical industry especially if inadequately treated, has been show to release high concentrations of antimicrobials into surface water. Residues and metabolites of antimicrobials are constituents of human sewage, livestock manure, and aquaculture, along with fecal bacteria and resistance genes. Sewage treatment and composting of manure reduce concentrations of some but not all antimicrobials and micro-organisms, which are introduced to soil upon land application of human and animal bio-solids [@RahubeEtAl2016].
 
-In developed countries with good-quality sewage and drinking water treatment, and where most people have little to no direct contact with food-producing animals, transmission of bacteria and resistance genes from agricultural sources is largely foodborne, either from direct contamination of meat and poultry during slaughter and processing, or indirectly from fruit and vegetables contaminated by manure or irrigation water[@abxenvironment]. In countries with poor sewage and water treatment, drinking water is likely to be very important in the transmission of resistant bacteria and/or genes from animals. Poor sanitation also facilitates indirect person-person water-borne transmission of enteric bacteria among residents as well as international travellers who return home colonized with resistant bacteria acquired locally. Through these and other means, including globalized trade in animals and food and long-distance migratory patterns of wildlife, antimicrobial-resistant bacteria are globally disseminated.
+In developed countries with good-quality sewage and drinking water treatment, and where most people have little to no direct contact with food-producing animals, transmission of bacteria and resistance genes from agricultural sources is largely foodborne, either from direct contamination of meat and poultry during slaughter and processing, or indirectly from fruit and vegetables contaminated by manure or irrigation water [@Singer2016]. In countries with poor sewage and water treatment, drinking water is likely to be very important in the transmission of resistant bacteria and/or genes from animals. Poor sanitation also facilitates indirect person-person water-borne transmission of enteric bacteria among residents as well as international travellers who return home colonized with resistant bacteria acquired locally. Through these and other means, including globalized trade in animals and food and long-distance migratory patterns of wildlife, antimicrobial-resistant bacteria are globally disseminated.
 
 General measures to address antimicrobial resistance in the wider environment include improved controls on pollution from industrial, residential, and agricultural sources. Improved research as well as environmental monitoring and risk assessment are also required to better understand the role of the environment in the selection and spread of antimicrobial resistance and to identify more specific measures to address resistance in this sector.
 
 ::: {#fig-abxenvironment}
 ![](images/hotspots.png){width="500"}
 
-Hotspots of antimicrobial resistance.\*\* Figure is from Singer et al. [@Singer2016]
+Hotspots of antimicrobial resistance. Figure is from Singer et al. [@Singer2016]
 :::
 
 ## Cross-border spread of AMR {.unnumbered}
@@ -573,11 +573,13 @@ Looking ahead, it is likely that there will be several changes to the global hea
 
 ## Summary {.unnumbered}
 
-The post-COVID-19 world must overcome the serious setbacks from the pandemic to hard-fought progress in reducing poverty and inequality. Health infrastructure and human resources vital for fighting AMR have been overburdened and will take many years to recover, particularly if governments impose austerity measures as they seek to recover from fiscal expansion during the pandemic.
+The post-COVID-19 world must overcome setbacks from the pandemic to hard-fought progress in reducing poverty and inequality. Health infrastructure and human resources vital for fighting AMR have been overburdened and will take many years to recover, particularly if governments impose austerity measures as they seek to recover from fiscal expansion during the pandemic.
 
-Decades of funding neglect, combined with continuously increasing global antibiotic consumption, poor surveillance data, and weak pipelines for new drugs, vaccines and diagnostics, has left the world dangerously vulnerable to a pandemic of resistant and untreatable infections.
+Decades of funding neglect, combined with continuously increasing global antibiotic consumption, poor surveillance data, and weak pipelines for new drugs, vaccines and diagnostics, has left the world vulnerable to a pandemic of resistant and untreatable infections.
 
-Therefore, strong multilateral collaboration is essential for the world to absorb these shocks and refocus on the silent but growing pandemic of AMR. Pandemics are opportunities to re-imagine governance structures and learn from previous experiences. COVID-19 has shown the importance of multilateral collaboration in diverse areas, including research and knowledge sharing, discovery, development and distribution of vaccines and medicines and access to diagnostics and medicines. Action is needed now to reverse the unthinkable future of untreatable infections.
+Therefore, strong multilateral collaboration is essential for the world to absorb these shocks and refocus on the silent but growing pandemic of AMR.
+
+Pandemics are opportunities to re-imagine governance structures and learn from previous experiences. COVID-19 has shown the importance of multilateral collaboration in diverse areas, including research and knowledge sharing, discovery, development and distribution of vaccines and medicines and access to diagnostics and medicines. Action is needed now to reverse the unthinkable future of untreatable infections.
 
 ## Lecture Slides {.unnumbered}
 
