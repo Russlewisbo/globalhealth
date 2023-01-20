@@ -202,6 +202,26 @@ Multiple candidates have been characterized in preclinical studies based on reco
 
 The target population includes critically ill patients with multiple comorbidities and/or a compromised immune response, and who are often in intensive care. All of this makes it hard to recruit subjects for such trials and complicates the establishment of appropriate efficacy end points [@lópez-siles2020]. In addition, there is currently no precedent for the routine use of vaccines to prevent hospital-acquired infections in high-risk populations. It is unclear when such a vaccine would need to be administered to be effective if a patient were hospitalized.
 
+### *Pseudomonas aeruginosa*
+
+No active candidates are in clinical development against P. aeruginosa.
+
+Four active P. aeruginosa vaccine candidates in the later stages of preclinical development. These use a range of technologies, including the MAPS platform (102), phage-based vaccine, a live attenuated Salmonella strain and inactivated whole cell vaccine. In addition, multiple promising vaccine candidates were identified in earlier stages of preclinical development. Several vaccines have advanced to clinical trials and failed over the past 3 decades (79, 103--105).
+
+In the last ten years, VLA43 (IC43) completed a Phase 2/3 clinical trial (NCT01563263) and was discontinued as it failed to reduce all-cause mortality [@adlbrecht2020]. A *P. aeruginosa* vaccine that incorporates 8 of the 16--20 different P. aeruginosa International Antigenic Typing Schema (IATS) subtypes could provide approximately 80% coverage of clinical strains. However, similarly to Acinetobacter infections, the incidence of *P. aeruginosa* infections in hospitals, and the risk factors and co-morbidities associated with these infections make it hard to conduct a clinical trial without specifically targeting high-risk populations. These high-risk populations include those in intensive care units (ICUs), nursing homes or long-term acute care facilities, or patients who are immunosuppressed due to surgery or immunotherapy. This makes clinical development very challenging.
+
+::: callout-note
+## The challenge of designing clinical trials for vaccines that target MDR pathogens
+
+One of the main difficulties facing the VLA43 trial was defining end points [@adlbrecht2020]. Impact on mortality was hard to demonstrate in critically ill patients, many of whom were receiving antibiotics, particularly without selecting a group of patients at high risk of *P. aeruginosa* infection. The administration of a vaccine at ICU admission left limited time for a protective immunological response. A vaccine-based approach to *P. aeruginosa* prevention may be more effective if at-risk target populations can be identified prior to ICU admission (e.g., patients with cystic fibrosis are at risk of P. aeruginosa infection and may be a good target group).
+:::
+
+### Enterococcus faecium
+
+No vaccine candidates against *E. faecium* are currently in preclinical or clinical trials. Several capsular polysaccharides and surface-associated proteins have been described as potential antigens (106); however, these have not yet arrived at late stages of preclinical research. E. faecium was also identified by the Wellcome Trust as not well suited for vaccine development due to comparatively low incidence, morbidity and mortality (12). In addition, there are multiple factors that make vaccine development against E. faecium challenging. Natural immunity response to the switch from commensal to pathogen is not well understood (107), correlates of protection are lacking, and the target population for a vaccine is not clearly defined (12, 37). E. faecium infections have relatively low incidence and tend to affect highly immunocompromised patients with a range of co-morbidities, which would be challenging to target for vaccination (12). Recent estimates the burden of E. faecium deaths associated with AMR at 100 000-250 000 globally in 2019 (5).
+
+### *Staphylococcus aureus* (including MRSA)
+
 ## References
 
 ## Slides
