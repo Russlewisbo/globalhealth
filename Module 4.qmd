@@ -1,5 +1,5 @@
 ---
-title: "Vaccination and AMR"
+title: "Module 4: The Role of Vaccination for Reducing AMR"
 date: "1/15/2023"
 format: 
   html:
@@ -18,6 +18,8 @@ csl: vancouver-brackets.csl
 ## Background {.unnumbered}
 
 Vaccines can be highly effective tools in combating antimicrobial resistance. They reduce the incidence of both resistant and susceptible infections, thereby also decreasing antibiotic consumption.
+
+The WHO has developed and [Action Plan fo Leveraging the Use of Current Antibiotic to Reduce Antimicrobial Resistance](https://www.who.int/publications/m/item/leveraging-vaccines-to-reduce-antibiotic-use-and-prevent-antimicrobial-resistance) [@Vekemans2021]. However, what are the possibilities for developing new vaccines to targeted AMR in resistant gram-negative and gram-positive pathogens on the WHO priority pathogens list in [@tbl-whopriority2]?
 
 As demonstrated by the recent success of the novel mRNA vaccine platform for COVID-19, developing vaccines against previously challenging targets is possible. Therefore, vaccines can play an important role in controlling AMR in the future.
 
@@ -64,6 +66,8 @@ In this module, we will examine the potential for vaccines to reduce resistance 
 +--------------+--------------------------------------------------------------------------------------------+
 
 : WHO priority pathogens {#tbl-whopriority2}
+
+## 
 
 ## How can vaccination reduce the spread of AMR?
 
@@ -136,7 +140,13 @@ Currently, 16 vaccine candidates are in active clinical trials, including multip
 
 The PCV10 and PCV13 vaccines are safe, effective pneumococcal polysaccharide-protein conjugate vaccines that have been available since 2009. Another 10-valent PCV vaccine, (with overlapping serotypes with PCV10 and PCV13) was prequalified by WHO in December 2019 and a 23-valent pneumococcal polysaccharide vaccine (PPV23) is licensed for use in adults.
 
-These vaccines are highly effective against invasive pneumococcal disease (IPD) and provide some protection against pneumonia. Current vaccines against *S. pneumoniae* have been highly effective in reducing the prevalence of drug-resistant infections.
+These vaccines are highly effective against invasive pneumococcal disease (IPD) and provide some protection against pneumonia. Current vaccines against *S. pneumoniae* have been highly effective in reducing the prevalence of drug-resistant infections [@fig-pcvimpact].
+
+::: {#fig-pcvimpact}
+![](pcvimpact.png)
+
+Impact of pneumococcal vaccination on antibiotic resistance in the United States. IPD: invasive pneumococcal disease; PCV: pneumococcal conjugate vaccine.Figure is from reference [@worldhealthorganizationwho20].
+:::
 
 -   Five years after the first PCV was used in the USA, IPD caused by multidrug-resistant (MDR) strains in children under age 2 decreased by 84% and penicillin-resistant IPD in adults over 65 fell by 49% [@acallf2016].
 -   In South Africa, the use of PCV was related to an 82% reduction in the rate of penicillin-resistant pneumococcal disease in children, and a 47% reduction in disease caused by penicillin-susceptible strains [@vongottberg2014].
@@ -184,7 +194,7 @@ Vaccines may target prevention of recurrence of C. difficile or prevention of fi
 
 ### *Klebsiella pneumoniae*
 
-One unlicensed vaccine candidate against K. pneumoniae is in clinical trials. Five preclinical K. pneumoniae vaccine candidates were identified using different technologies, including semi-synthetic conjugation, MAPS platform, Syntiron\'s Alloy platform and the inactivated whole cells (Table 27). Phase 1/2 trials were recently initiated (NCT04959344) (Table 28) to assess the tetravalent bioconjugated vaccine candidate, KlebV4, with and without the AS03 adjuvant. Another vaccine against K. pneumoniae -- MV140 (Uromune), a poorly characterized vaccine comprising heat-killed bacteria -- is in late-stage clinical trials (Phase 3: NCT02543827; Phase 2: NCT04096820). Uromune was excluded from this analysis as it has been licensed in Spain since 2010. Moreover, Uromune was recommended in the 2019 European Association of Urology guidelines as immunoactive prophylaxis to reduce recurrent UTI, and retrospective studies suggest it may reduce recurrent UTI by up to 90% compared with antibiotic prophylaxis [@Yang2019].
+One unlicensed vaccine candidate against K. pneumoniae is in clinical trials. Five preclinical K. pneumoniae vaccine candidates were identified using different technologies, including semi-synthetic conjugation, MAPS platform, Syntiron's Alloy platform and the inactivated whole cells (Table 27). Phase 1/2 trials were recently initiated (NCT04959344) (Table 28) to assess the tetravalent bioconjugated vaccine candidate, KlebV4, with and without the AS03 adjuvant. Another vaccine against K. pneumoniae -- MV140 (Uromune), a poorly characterized vaccine comprising heat-killed bacteria -- is in late-stage clinical trials (Phase 3: NCT02543827; Phase 2: NCT04096820). Uromune was excluded from this analysis as it has been licensed in Spain since 2010. Moreover, Uromune was recommended in the 2019 European Association of Urology guidelines as immunoactive prophylaxis to reduce recurrent UTI, and retrospective studies suggest it may reduce recurrent UTI by up to 90% compared with antibiotic prophylaxis [@Yang2019].
 
 *K. pneumoniae* has a high propensity to acquire resistance genes and spreads easily, in comparison with other Enterobacterales. This may be an argument for considering vaccination against certain strains. A capsular polysaccharide vaccine was developed three decades ago but failed in human trials [@edelman1994]. Four of the 12 O serotypes that exist for *K. pneumoniae* would encompass 80% of clinical strains.
 
@@ -211,17 +221,47 @@ Four active P. aeruginosa vaccine candidates in the later stages of preclinical 
 In the last ten years, VLA43 (IC43) completed a Phase 2/3 clinical trial (NCT01563263) and was discontinued as it failed to reduce all-cause mortality [@adlbrecht2020]. A *P. aeruginosa* vaccine that incorporates 8 of the 16--20 different P. aeruginosa International Antigenic Typing Schema (IATS) subtypes could provide approximately 80% coverage of clinical strains. However, similarly to Acinetobacter infections, the incidence of *P. aeruginosa* infections in hospitals, and the risk factors and co-morbidities associated with these infections make it hard to conduct a clinical trial without specifically targeting high-risk populations. These high-risk populations include those in intensive care units (ICUs), nursing homes or long-term acute care facilities, or patients who are immunosuppressed due to surgery or immunotherapy. This makes clinical development very challenging.
 
 ::: callout-note
-## The challenge of designing clinical trials for vaccines that target MDR pathogens
+## The challenge of designing clinical trials for vaccines that target MDR and XDR gram-negative pathogens
 
 One of the main difficulties facing the VLA43 trial was defining end points [@adlbrecht2020]. Impact on mortality was hard to demonstrate in critically ill patients, many of whom were receiving antibiotics, particularly without selecting a group of patients at high risk of *P. aeruginosa* infection. The administration of a vaccine at ICU admission left limited time for a protective immunological response. A vaccine-based approach to *P. aeruginosa* prevention may be more effective if at-risk target populations can be identified prior to ICU admission (e.g., patients with cystic fibrosis are at risk of P. aeruginosa infection and may be a good target group).
 :::
 
-### Enterococcus faecium
+### *Enterococcus faecium*
 
-No vaccine candidates against *E. faecium* are currently in preclinical or clinical trials. Several capsular polysaccharides and surface-associated proteins have been described as potential antigens (106); however, these have not yet arrived at late stages of preclinical research. E. faecium was also identified by the Wellcome Trust as not well suited for vaccine development due to comparatively low incidence, morbidity and mortality (12). In addition, there are multiple factors that make vaccine development against E. faecium challenging. Natural immunity response to the switch from commensal to pathogen is not well understood (107), correlates of protection are lacking, and the target population for a vaccine is not clearly defined (12, 37). E. faecium infections have relatively low incidence and tend to affect highly immunocompromised patients with a range of co-morbidities, which would be challenging to target for vaccination (12). Recent estimates the burden of E. faecium deaths associated with AMR at 100 000-250 000 globally in 2019 (5).
+No vaccine candidates against *E. faecium* are currently in preclinical or clinical trials. Several capsular polysaccharides and surface-associated proteins have been described as potential antigens ; however, these have not yet arrived at late stages of preclinical research.
+
+*E. faecium* was also identified by the Wellcome Trust as not well suited for vaccine development due to comparatively low incidence, morbidity and mortality. In addition, there are multiple factors that make vaccine development against *E. faecium* challenging. Natural immunity response to the switch from commensal to pathogen is not well understood, correlates of protection are lacking, and the target population for a vaccine is not clearly defined
+
+*E. faecium* infections have relatively low incidence and tend to affect highly immunocompromised patients with a range of co-morbidities, which would be challenging to target for vaccination. Recent estimates the burden of *E. faecium* deaths associated with AMR at 100 000-250 000 globally in 2019.
 
 ### *Staphylococcus aureus* (including MRSA)
 
-## References
+There are currently 12 active preclinical vaccine candidates against S*. aureus.*
+
+There are 4 major challenges with developing a *S. aureus* vaccine.
+
+1.  *S. aureus* is part of the normal human flora (different than *S. pneumoniae)*
+2.  *S. aureus* produces multiple diseases- which disease should be targeted
+3.  *S. aureus* has multiple virulence factors- Which antigens should be targeted?
+4.  Lack of immune correlates-biomarks for predicting diseases (i.e. antibody levels)
+
+Despite relatively high industry investment, many vaccine candidates against *S. aureus* have been developed and failed [@fowler_proctor14]. Over the last 10 years, nine vaccine candidates in clinical development have been discontinued or research has become inactive, mostly in Phase 1 clinical trials. For example, the recombinant toxin vaccine STEBVax (IBT-V01) (NCT00974935) was discontinued in order to work towards the IBT-V02 pentavalent toxoid vaccine, currently in preclinical stages. Also, AVO0328, a partially de-N-acetylated poly-N-acetyl glucosamine polymer that targeted a variety of bacterial species, including *S. pneumoniae* and *S. aureus*, shows no recent activity (NCT02853617). NDV-3A recombinant vaccine failed to prevent nasal acquisition of S. aureus in military recruits during Phase 2a trials (NCT03455309) (108). The four-antigen candidate SA4Ag was terminated during Phase 2b (NCT02388165) in 2019 due to futility. Phase 3 failure also occurred in the V710 IsdB vaccine, as trials were terminated when interim analysis reported increased mortality and adverse side effects in vaccine recipients who developed an *S. aureus* infection-possibly due to a hyperimmune response.
+
+At present, it is unclear what antigen targets would allow a vaccine to provide protection against *S. aureus* infection (13) In addition, correlates of protection are lacking, and vaccines that have shown protection in animal models have failed in clinical trials . Multiple candidate monoclonal antibodies against *S. aureus* have failed in clinical trials (112). Finally, S. aureus causes a diverse range clinical syndromes, including bacteraemia, skin infections, pneumonia and others, and it is not clear whether a vaccine against one would protect against others
+
+::: callout-note
+# Pfizer Press Release December, 2018
+
+Pfizer Inc. (NYSE:PFE) announced today that the Phase 2b trial STRIVE (STaphylococcus aureus SuRgical Inpatient Vaccine Efficacy) evaluating the company's investigational Staphylococcus aureus (S. aureus) multi-antigen vaccine (PF-06290510) is being discontinued due to futility. This decision is based on a recommendation from an independent Data Monitoring Committee (DMC), composed of external experts, after conducting a pre-planned interim analysis. The DMC concluded from these data that the study reached futility, meaning that there is low statistical probability for the study to meet the pre-defined primary efficacy objective in adults undergoing elective spinal fusion surgery after completing a planned Phase 3 expansion of the study. A safety review by the DMC indicated that the investigational vaccine has been safe and well tolerated. STRIVE trial participants who are enrolled in the study will complete the study's follow-up evaluations. Pfizer is evaluating next steps for the potential development of a S. aureus vaccine
+:::
+
 
 ## Slides
+
+:::
+<iframe src="https://slides.com/russelllewis/module-2-crises-in-new-antibiotic-development-1f9d16/embed" width="576" height="420" title="Module 4: The role of vaccination in reducing AMR" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+:::
+
+## References
+
